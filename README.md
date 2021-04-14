@@ -1,4 +1,4 @@
-# Montly budget program / presupuesto mensual  german/english
+# Montly budget program / presupuesto mensual                 german/english
 ## static program / vanilla JS
 
 ## description
