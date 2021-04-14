@@ -2,7 +2,7 @@
 ### * static program / vanilla JS
 ###  * german/english
 
-## description
+## Description
 Budget expenses and earnings montly calculator, give the overall money balance of each month, with the inputs we added, have browser cache to remenmber the data.
 Written in german and english.
 
