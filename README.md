@@ -1,25 +1,13 @@
-# Montly budget program / presupuesto mensual
-## static program
-german expense calculator
+# Montly budget program / presupuesto mensual  german/english
+## static program / vanilla JS
 
-📢 PSA for those who want to fork or copy this repo and use it for their own site:
+## description
+Budget expenses and earnings montly calculator, give the overall money balance of each month, with the inputs we added, have browser cache to remenmber the data.
+Written in german and english.
+
+calculadora de gastos y ingresos, da el balance general de dinero para cada mes, con los inputs añadidos, usa el cache del navegador para recordar los datos.
+Escrita en aleman e ingles.
 
 
 
-
-# Dependencies
-- Gulp
-- 45454
--564654
-
-1. sdsdfsdf
-2. sdfsdf
-
-# Getting Started
-to run:
-```
-gem install jekyll sass bundler jekyll-minifier jekyll-sitemap
-npm install
-npm start
-```
 
