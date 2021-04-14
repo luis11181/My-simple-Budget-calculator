@@ -1,4 +1,4 @@
-# Montly budget program / presupuesto mensual    
+# Montly budget generator / Programa para sumar el presupuesto mensual    
 ### * static program / vanilla JS
 ###  * german/english
 
