@@ -3,7 +3,7 @@
 ###  * german/english
 
 ## Description
-Budget expenses and earnings monthly calculator, give the overall money balance of each month, with the inputs we added, have browser cache to remenmber the data.
+Personal budget expenses and earnings monthly calculator, give the overall money balance of each month, with the inputs we added, have browser cache to remember all personal transactions.
 Written in german and english.
 
 calculadora de gastos y ingresos, da el balance general de dinero para cada mes, con los inputs añadidos, usa el cache del navegador para recordar los datos.
