@@ -2,7 +2,7 @@
 ### * static program / vanilla JS
 ###  * german/english
 
-## Description
+## Description :page_facing_up:
 https://luis11181.github.io/My-simple-Budget-calculator/
 
 Personal budget expenses and earnings monthly calculator, give the overall money balance of each month, with the inputs we added, have browser cache to remember all personal transactions.
