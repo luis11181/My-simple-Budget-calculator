@@ -11,20 +11,22 @@ Written in german and english.
 calculadora de gastos y ingresos, da el balance general de dinero para cada mes, con los inputs añadidos, usa el cache del navegador para recordar los datos.
 Escrita en aleman e ingles.
 
-.
-├── README.md
-├── components
-│ ├── head.js
-│ └── nav.js
-├── next.config.js
-├── node_modules
-│ ├── [...]
-├── package.json
-├── pages
-│ └── index.js
-├── static
-│ └── favicon.ico
-└── yarn.lock
+```
+project
+│   README.md
+│   some_files
+|   index.html
+│
+└───dist
+│   │   all compiled deistribution files
+│   │   file012.txt
+│   │
+│   └───src
+│       │   web manifest
+│       │   image
+│       │   ...
+
+```
 
 
 
